@@ -1,0 +1,24 @@
+# R session files
+
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio files
+
+.Rproj.user/
+
+# renv
+
+renv/library/
+renv/staging/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Temporary files
+
+*.log
+*.tmp
